@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotosApplication</string>
+    <string name="default_notification_channel_id">Canalito</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

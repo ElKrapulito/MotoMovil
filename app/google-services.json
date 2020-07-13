@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241275211026",
+    "firebase_url": "https://moto-app-a7482.firebaseio.com",
+    "project_id": "moto-app-a7482",
+    "storage_bucket": "moto-app-a7482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241275211026:android:2159ee4f6146dd8475f7cb",
+        "android_client_info": {
+          "package_name": "com.moviles.moto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241275211026-7g76e3nbupsc0peuqp30cepu0jo8phbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrpbfBuFyBPAjuYU18r75uNVIHs0fzqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241275211026-7g76e3nbupsc0peuqp30cepu0jo8phbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
